@@ -1,4 +1,4 @@
-const { expecty } = require('chai')
+const { expect } = require('chai')
 
 const Atm = require('../src/atm')
 
